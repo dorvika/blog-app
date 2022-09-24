@@ -4,12 +4,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Main features
 
-- Display a list of all Posts
-- Display a specific Post and its comments
-- Create a new Post
-- Update Post's information – title and body
-- Delete a Post
-- Create a new Comment
+- Displaying a list of all Posts
+- Displaying a specific Post and its comments
+- Creation of a new Post
+- Updating Post's information – title and body
+- Deletion a Post
+- Creation of a new Comment
 
 ## Available Scripts
 
