@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Main features
+
+- Display a list of all Posts
+- Display a specific Post and its comments
+- Create a new Post
+- Update Post's information – title and body
+- Delete a Post
+- Create a new Comment
+
 ## Available Scripts
 
 In the project directory, you can run:
